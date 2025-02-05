@@ -5,7 +5,7 @@
 - 📱 Mobile Developer (Flutter)
 - 🤖 DevOps & Machine Learning Enthusiast
 - 🎓 **PhD Student** in Computer Science @ University of Tsukuba
-- 🏢 **Build Engineer** @ Cyberdyne
+- 🏢 **Software Engineer** @ Cyberdyne.jp
 - 🎥 I run a YouTube Channel: **[Santos Enoque](https://www.youtube.com/@santosenoque)**
 - 📚 Founder of [Tendoll.co](https://tendoll.co) - A Learning Platform
 
